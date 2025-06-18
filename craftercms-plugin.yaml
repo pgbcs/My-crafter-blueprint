@@ -11,10 +11,7 @@ plugin:
   tags:
     - blueprint
     - website
-  version:
-    major: 1
-    minor: 0
-    patch: 1
+  version: 1.0.0
   description: |
     Simple empty blueprint
   website:

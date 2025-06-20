@@ -21,7 +21,7 @@ plugin:
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
-        url: ./.crafter/default1.png
+        url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQblB_oLi0fOlbbUZpuPg3HXzRdcemMy5n4mA&s
   developer:
     company:
       name: CrafterCMS
